@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: 
+- 🔭 I’m currently working on my Alevels which include: Computer Science, AS-level Maths, Buisness and Economics and Design Technolagy.
 - 🌱 I’m currently learning: c# and JavaScript for A-Level Computer Science
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
